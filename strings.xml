@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> Task Manager App </string>
+    <string name="happy_birthday_text">Task Manager </string>
+    <string name="signature_text">From Manu </string>
+</resources>
